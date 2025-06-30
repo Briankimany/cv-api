@@ -1,16 +1,5 @@
+*
 
-__pycache__/
-/api_test
-app-data
-app-datav1
-app/front_end
-project-desing
-ctest
-venv
-venv-dev
-*.log
-*.sh
-.marscode
-learn.py
-docs
-.app/
+!.gitignore
+!docs2
+!ReadMe.md
