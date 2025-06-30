@@ -1,0 +1,8 @@
+*
+
+!h.py
+!.gitignore
+!/docs2
+!ReadMe.md
+!docs2/
+!docs2/**
