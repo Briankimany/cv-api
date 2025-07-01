@@ -23,7 +23,7 @@ A **Flask-based REST API** for managing CV/resume data, featuring:
 
 ### 1. Clone the repository
 ```bash
-git clone <repository-url>
+git clone [https://github.com/Briankimany/cv-api](https://github.com/Briankimany/cv-api.git)
 cd CV-API
 ```
 
