@@ -108,14 +108,14 @@ chmod +x run.sh
 
 ### 🔐 Authentication
 
-* `POST /auth/login` — User login
-* `POST /auth/register` — User registration
-* `POST /auth/token` — Token refresh and management
+* `/auth/login` — User login
+* `/auth/register` — User registration
+* `/auth/token` — Token refresh and management
 
 ### 👤 User Profile
 
-* `GET/POST /user/education` — Manage education details
-* `GET/POST /user/work` — Manage work experience
-* `GET/POST /user/optional` — Manage additional information
-* `GET /user/profile` — View profile data
+* `/user/education` — Manage education details
+* `/user/work` — Manage work experience
+* `/user/optional` — Manage additional information
+* `/user/profile` — View profile data
 
